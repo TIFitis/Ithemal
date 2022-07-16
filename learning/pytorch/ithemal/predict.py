@@ -2,6 +2,12 @@
 
 from __future__ import print_function
 
+import sys
+sys.path.insert(0, "/home/abanerjee/Documents/ithemal/common")
+sys.path.insert(0, "/home/abanerjee/Documents/ithemal/learning/pytorch/data")
+sys.path.insert(0, "/home/abanerjee/Documents/ithemal/learning/pytorch")
+sys.path.insert(0, "/home/abanerjee/Documents/ithemal/learning/pytorch")
+
 import argparse
 import binascii
 import common_libs.utilities as ut

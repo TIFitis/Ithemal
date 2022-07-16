@@ -1,0 +1,1000 @@
+ 1210  vim c2
+ 1211  meld c1 c2 
+ 1212  usc USCInput_S8/glsl/shadertoy/MscSWl_Blurry_Conetracer_0.frag.uf ?a2
+ 1213  usc USCInput_S8/glsl/shadertoy/MscSWl_Blurry_Conetracer_0.frag.uf >a2
+ 1214  vim a2
+ 1215  usc USCInput_S8/glsl/shadertoy/MscSWl_Blurry_Conetracer_0.frag.uf >a2
+ 1216  vim a2 
+ 1217  globalprotect connect -p vpn.imgtec.com -u akash.banerjee
+ 1218  scp -r akash@lx-pvrswcompiler01.hh.imgtec.org:/home/akash/Perforce/akash.banerjee_dev_ws/powervr/swgraphics/tests/usc2/MAIN/log9 /home/abanerjee/Desktop/lrs_perf.txt
+ 1219  scratch 
+ 1220  ls
+ 1221  rm a a2
+ 1222  ls
+ 1223  cp ~/Desktop/lrs_perf.txt ./a
+ 1224  ls
+ 1225  ./a.out <a >a2
+ 1226  g++ -O3 test.cpp 
+ 1227  ./a.out <a >a2
+ 1228  vim a2 
+ 1229  g++ -O3 test.cpp 
+ 1230  ./a.out <a >a2
+ 1231  vim a2 
+ 1232  g++ -O3 test.cpp 
+ 1233  ./a.out <a >a2
+ 1234  g++ -O3 test.cpp 
+ 1235  ./a.out <a >a2
+ 1236  vim a2 
+ 1237  g++ -O3 test.cpp 
+ 1238  ./a.out <a >a2
+ 1239  g++ -O3 test.cpp 
+ 1240  ./a.out <a >a2
+ 1241  vim a
+ 1242  g++ -O3 test.cpp 
+ 1243  ./a.out <a >a2
+ 1244  desktop
+ 1245  vim ifiter_with_cl.txt 
+ 1246  scp -r akash@lx-pvrswcompiler01.hh.imgtec.org:/home/akash/Perforce/akash.banerjee_dev_ws/powervr/swgraphics/tests/usc2/MAIN/log3 /home/abanerjee/Desktop/lrs_perf.txt
+ 1247  scratch 
+ 1248  cp ~/Desktop/lrs_perf.txt ./a
+ 1249  ls
+ 1250  rm a2
+ 1251  vim a
+ 1252  ./a.out <a >a2
+ 1253  vim a2 
+ 1254  g++ -O3 test.cpp
+ 1255  ./a.out <a >a2
+ 1256  vim a2 
+ 1257  g++ -O3 test.cpp
+ 1258  ./a.out <a >a2
+ 1259  vim a2 
+ 1260  scp -r akash@lx-pvrswcompiler01.hh.imgtec.org:/home/akash/Perforce/akash.banerjee_dev_ws/powervr/swgraphics/tests/usc2/MAIN/log3 /home/abanerjee/Desktop/
+ 1261  scp -r akash@lx-pvrswcompiler01.hh.imgtec.org:/home/akash/Perforce/akash.banerjee_dev_ws/powervr/swgraphics/tests/usc2/MAIN/log4b /home/abanerjee/Desktop/
+ 1262  cp ~/Desktop/log4b ./b
+ 1263  ls
+ 1264  ./a.out <b >b2
+ 1265  g++ -O3 ./test.cpp 
+ 1266  ./a.out <b >b2
+ 1267  vim b
+ 1268  g++ -O3 ./test.cpp 
+ 1269  ./a.out <b >b2
+ 1270  g++ -O3 ./test.cpp 
+ 1271  ./a.out <b >b2
+ 1272  vim b2 
+ 1273  g++ -O3 ./test.cpp 
+ 1274  ./a.out <b >b2
+ 1275  vim b2 
+ 1276  g++ -O3 ./test.cpp 
+ 1277  ./a.out <b >b2
+ 1278  vim b2 
+ 1279  g++ -O3 ./test.cpp 
+ 1280  ./a.out <b >b2
+ 1281  vim b2 
+ 1282  g++ -O3 ./test.cpp 
+ 1283  ./a.out <b >b2
+ 1284  g++ -O3 ./test.cpp 
+ 1285  ./a.out <b >b2
+ 1286  g++ -O3 ./test.cpp 
+ 1287  ./a.out <b >b2
+ 1288  img_workstation 
+ 1289  update
+ 1290  img_workstation 
+ 1291  ls
+ 1292  perfte
+ 1293  perf_tests 
+ 1294  ls
+ 1295  cd profiling_shaders/
+ 1296  ls
+ 1297  cd sf_shader_unique/
+ 1298  ls
+ 1299  vim test.sh 
+ 1300  vim new_gather w
+ 1301  ls
+ 1302  vim test.sh 
+ 1303  ls
+ 1304  ./new_gather 
+ 1305  ls
+ 1306  rm *.cg
+ 1307  ls
+ 1308  rm perf.db
+ 1309  rm perf.dbb 
+ 1310  ls
+ 1311  clear
+ 1312  vim xyz 
+ 1313  ls
+ 1314  ./new_gather 
+ 1315  vim test.sh 
+ 1316  ./new_gather 
+ 1317  ls
+ 1318  rm *.cg
+ 1319  ls
+ 1320  vim new_gather 
+ 1321  ./new_gather 
+ 1322  vim new_gather 
+ 1323  ./new_gather 
+ 1324  vim new_gather 
+ 1325  ls
+ 1326  vim new_gather 
+ 1327  ls
+ 1328  ./new_gather 
+ 1329  desktop
+ 1330  ls
+ 1331  vim compile-time 
+ 1332  gedit bad_shader.uf.txt 
+ 1333  img_workstation 
+ 1334  desktop
+ 1335  ls
+ 1336  cd Shared/
+ 1337  ls
+ 1338  cd ../
+ 1339  ls
+ 1340  cd Doc
+ 1341  doc
+ 1342  documents 
+ 1343  ls
+ 1344  img_workstation 
+ 1345  globalprotect connect -p vpn.imgtec.com -u akash.banerjee
+ 1346  img_workstation 
+ 1347  globalprotect connect -p vpn.imgtec.com -u akash.banerjee
+ 1348  img_workstation 
+ 1349  desktop
+ 1350  meld ifiter_with*
+ 1351  globalprotect connect -p vpn.imgtec.com -u akash.banerjee
+ 1352  desktop
+ 1353  vim compile-time 
+ 1354  img_workstation 
+ 1355  usc USCInput_S8/whitebox/dead_code_elimination/dce_5.txt
+ 1356  perf_tests
+ 1357  usc USCInput_S8/whitebox/dead_code_elimination/dce_5.txt
+ 1358  gdb usc
+ 1359  ls
+ 1360  rm a?
+ 1361  rm b?
+ 1362  rm c?
+ 1363  ls
+ 1364  clear
+ 1365  usc USCInput_S8/glsl/glbenchmark3.0_71be98/25760368.frag.uf >a2
+ 1366  gedit a2 
+ 1367  vim b1
+ 1368  vim b2
+ 1369  meld b1 b2 
+ 1370  usc USCInput_S8/glsl/gfxbench50/aztec/Fragment-182-0.frag.uf
+ 1371  usc USCInput_S8/glsl/gfxbench50/aztec/Fragment-182-0.frag.uf >a2
+ 1372  rm b?
+ 1373  gedit a2 
+ 1374  vim b1
+ 1375  vim b2
+ 1376  meld b1 b2 
+ 1377  gdb usc
+ 1378  usc USCInput_S8/glsl/gfxbench50/aztec/Fragment-182-0.frag.uf >a1
+ 1379  meld a1
+ 1380  usc USCInput_S8/glsl/gfxbench50/aztec/Fragment-185-0.frag.uf >b1
+ 1381  usc USCInput_S8/glsl/gfxbench50/aztec/Fragment-83-0.frag.uf >c1
+ 1382  usc USCInput_S8/glsl/gfxbench50/aztec/Fragment-80-0.frag.uf >d1
+ 1383  usc USCInput_S8/glsl/gfxbench50/aztec/Fragment-80-0.frag.uf >d2
+ 1384  usc USCInput_S8/glsl/gfxbench50/aztec/Fragment-83-0.frag.uf >c2
+ 1385  usc USCInput_S8/glsl/gfxbench50/aztec/Fragment-185-0.frag.uf >b2
+ 1386  meld b1 b2 
+ 1387  meld a?
+ 1388  usc USCInput_S8/shaderanalysis/gfxbench-5_0_beta_gl_5_Fragment-154-0.txt >p1
+ 1389  usc USCInput_S8/shaderanalysis/gfxbench-5_0_beta_gl_5_Fragment-154-0.txt >p2
+ 1390  usc USCInput_S8/shaderanalysis/gfxbench-5_0_beta_gl_5_Fragment-154-1.txt >q2
+ 1391  usc USCInput_S8/shaderanalysis/gfxbench-5_0_beta_gl_5_Fragment-39-0.txt >r2
+ 1392  usc USCInput_S8/shaderanalysis/gfxbench-5_0_beta_gl_5_Fragment-39-0.txt >r1
+ 1393  usc USCInput_S8/shaderanalysis/gfxbench-5_0_beta_gl_5_Fragment-154-1.txt >q1
+ 1394  usc USCInput_S8/shaderanalysis/gfxbench-5_0_beta_gl_5_Fragment-154-0.txt >p1
+ 1395  meld p?
+ 1396  meld q?
+ 1397  meld r?
+ 1398  usc USCInput_S8/shaderanalysis/gfxbench-5_0_beta_gl_5_Fragment-39-0.txt >r3
+ 1399  meld r1 r3 
+ 1400  usc USCInput_S8/shaderanalysis/gfxbench-5_0_beta_gl_5_Fragment-39-0.txt >r3
+ 1401  meld r1 r3 
+ 1402  usc USCInput_S8/shaderanalysis/gfxbench-5_0_beta_gl_5_Fragment-39-0.txt >r3
+ 1403  meld r1 r3 
+ 1404  rm perf.db 
+ 1405  vim run-single.sh 
+ 1406  ./run-single.sh USCInput_S8/shaderanalysis/gfxbench-5_0_beta_gl_5_Fragment-39-0.txt lg
+ 1407  rm perf.db 
+ 1408  ./run-single.sh USCInput_S8/shaderanalysis/gfxbench-5_0_beta_gl_5_Fragment-39-0.txt lg
+ 1409  meld r1 r2 
+ 1410  meld r1 r3
+ 1411  cp r1  ~/Desktop/ifiter_without_cl.txt
+ 1412  cp r3  ~/Desktop/ifiter_with_cl.txt
+ 1413  meld r1 r3
+ 1414  usc USCInput_S8/shaderanalysis/gfxbench-5_0_beta_gl_5_Fragment-39-0.txt >r4
+ 1415  meld r3 r4 
+ 1416  usc USCInput_S8/shaderanalysis/gfxbench-5_0_beta_gl_5_Fragment-39-0.txt >r4
+ 1417  meld r1 r4 
+ 1418  gdb usc
+ 1419  cp ~/Desktop/bad_shader2.uf.txt ./
+ 1420  usc bad_shader2.uf.txt 
+ 1421  cp ~/Desktop/bad_shader.uf.txt 
+ 1422  cp ~/Desktop/bad_shader.uf.txt ./
+ 1423  ls
+ 1424  usc bad_shader.uf.txt 
+ 1425  gdb usc
+ 1426  usc bad_shader.uf.txt 
+ 1427  usc bad_shader.uf.txt >a2
+ 1428  usc bad_shader2.uf.txt >b
+ 1429  usc bad_shader2.uf.txt >b1
+ 1430  usc bad_shader.uf.txt >a1
+ 1431  meld a1 a2 
+ 1432  usc bad_shader.uf.txt 
+ 1433  gdb usc
+ 1434  usc bad_shader.uf.txt 
+ 1435  usc bad_shader2.uf.txt 
+ 1436  usc bad_shader.uf.txt 
+ 1437  usc bad_shader.uf.txt >a3
+ 1438  meld a2 a3 
+ 1439  meld a1 a3 
+ 1440  ls
+ 1441  meld a2 a3 
+ 1442  gdb usc
+ 1443  usc bad_shader.uf.txt >a3
+ 1444  gdb usc
+ 1445  ls
+ 1446  meld a2 a3 
+ 1447  r, a?
+ 1448  rm a?
+ 1449  rm b?
+ 1450  rm c?
+ 1451  ls
+ 1452  rm p?
+ 1453  rm q?
+ 1454  rm r?
+ 1455  ls
+ 1456  rm d?
+ 1457  ls
+ 1458  clear
+ 1459  usc bad_shader.uf.txt >a2
+ 1460  usc bad_shader.uf.txt >a1
+ 1461  rm a?
+ 1462  usc bad_shader.uf.txt >a1
+ 1463  usc bad_shader.uf.txt >a2
+ 1464  usc bad_shader.uf.txt >a1
+ 1465  meld a1 a2 
+ 1466  cp a1 ~/pp_asrt_disabled.txt
+ 1467  cp a2 ~/pp_with_cl.txt
+ 1468  mv ~/pp_* ~/Desktop/
+ 1469  usc test
+ 1470  vim test
+ 1471  usc test
+ 1472  clear
+ 1473  usc test
+ 1474  meld a1 a2 
+ 1475  gdb usc
+ 1476  vim a3
+ 1477  usc bad_shader.uf.txt >a3
+ 1478  meld a2 a3 
+ 1479  usc bad_shader.uf.txt >a3
+ 1480  meld a2 a3 
+ 1481  usc bad_shader.uf.txt
+ 1482  usc bad_shader2.uf.txt 
+ 1483  usc test
+ 1484  usc bad_shader2.uf.txt 
+ 1485  usc bad_shader.uf.txt 
+ 1486  usc bad_shader2.uf.txt 
+ 1487  ls
+ 1488  cd profiling_shaders/
+ 1489  ls
+ 1490  cd sf_shader_unique/
+ 1491  ls
+ 1492  cd sf_shader/
+ 1493  ls
+ 1494  cd ../
+ 1495  ls
+ 1496  cd ../
+ 1497  ls
+ 1498  usc long.vert.uf 
+ 1499  ls
+ 1500  cd sf_shader_unique/
+ 1501  ls
+ 1502  ./new_gather 
+ 1503  clear
+ 1504  ls
+ 1505  ./new_gather 
+ 1506  ls
+ 1507  cd ../
+ 1508  usc long.vert.uf >a2
+ 1509  usc long.vert.uf >a1
+ 1510  meld a1 a2 
+ 1511  globalprotect connect -p vpn.imgtec.com -u akash.banerjee
+ 1512  img_workstation 
+ 1513  make RGX_BVNC=70.4.2448.4117 USE_CCACHE=1 PVRVERSION_WITHOUT_P4=1 SRC_DEBUG=1 USE_CCACHE=1 PDUMP=1 BUILD=debug PVR_BUILD_DIR=nohw_linux SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ UF_TESTBENCH=1 usc -j12
+ 1514  make RGX_BVNC=70.4.2448.4117 USE_CCACHE=1 PVRVERSION_WITHOUT_P4=1 SRC_DEBUG=1 USE_CCACHE=1 PDUMP=0 BUILD=release PVR_BUILD_DIR=nohw_linux SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ UF_TESTBENCH=0 usc -j12
+ 1515  make RGX_BVNC=70.4.2448.4117 USE_CCACHE=1 PVRVERSION_WITHOUT_P4=1 SRC_DEBUG=1 USE_CCACHE=1 PDUMP=0 BUILD=rel PVR_BUILD_DIR=nohw_linux SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ UF_TESTBENCH=0 usc -j12
+ 1516  make RGX_BVNC=70.4.2448.4117 USE_CCACHE=1 PVRVERSION_WITHOUT_P4=1 SRC_DEBUG=1 USE_CCACHE=1 PDUMP=0 BUILD=release PVR_BUILD_DIR=nohw_linux SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ UF_TESTBENCH=0 usc -j12
+ 1517  make RGX_BVNC=70.4.2448.4117 USE_CCACHE=1 PVRVERSION_WITHOUT_P4=1 SRC_DEBUG=1 USE_CCACHE=1 PDUMP=0 BUILD=debug PVR_BUILD_DIR=nohw_linux SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ UF_TESTBENCH=0 usc -j12
+ 1518  make RGX_BVNC=70.4.2448.4117 USE_CCACHE=1 PVRVERSION_WITHOUT_P4=1 SRC_DEBUG=1 USE_CCACHE=1 PDUMP=1 BUILD=debug PVR_BUILD_DIR=nohw_linux SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ UF_TESTBENCH=1 usc -j12
+ 1519  make RGX_BVNC=70.4.2448.4117 USE_CCACHE=1 PVRVERSION_WITHOUT_P4=1 SRC_DEBUG=1 USE_CCACHE=1 PDUMP=0 BUILD=debug PVR_BUILD_DIR=nohw_linux SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ UF_TESTBENCH=0 usc -j12
+ 1520  make RGX_BVNC=70.4.2448.4117 USE_CCACHE=1 PVRVERSION_WITHOUT_P4=1 SRC_DEBUG=1 USE_CCACHE=1 PDUMP=1 BUILD=debug PVR_BUILD_DIR=nohw_linux SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ UF_TESTBENCH=1 usc -j12
+ 1521  make RGX_BVNC=70.4.2448.4117 USE_CCACHE=1 PVRVERSION_WITHOUT_P4=1 SRC_DEBUG=1 USE_CCACHE=1 PDUMP=1 BUILD=debug PVR_BUILD_DIR=nohw_linux SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ UF_TESTBENCH=1 clean
+ 1522  make RGX_BVNC=70.4.2448.4117 USE_CCACHE=1 PVRVERSION_WITHOUT_P4=1 SRC_DEBUG=1 USE_CCACHE=1 PDUMP=1 BUILD=debug PVR_BUILD_DIR=nohw_linux SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ UF_TESTBENCH=1 usc -j12
+ 1523  perf_tests 
+ 1524  ls
+ 1525  gdb usc
+ 1526  r
+ 1527  gdb usc
+ 1528  usc bad_shader.uf.txt 
+ 1529  usc bad_shader2.uf.txt 
+ 1530  usc bad_shader.uf.txt 
+ 1531  gdb usc
+ 1532  ls
+ 1533  meld a1 a2 
+ 1534  meld a2 a3 
+ 1535  usc bad_shader.uf.txt >a4
+ 1536  meld a2 a4 
+ 1537  usc bad_shader.uf.txt >a4
+ 1538  meld a2 a4 
+ 1539  desktop
+ 1540  ls
+ 1541  cd Shared/
+ 1542  ls\
+ 1543  ls
+ 1544  img_workstation 
+ 1545  cd
+ 1546  cd my_bin/
+ 1547  ls
+ 1548  ll
+ 1549  ln -s /home/abanerjee/Documents/Perforce/akash.banerjee_dev0_ws/powervr/swgraphics/rogueddk/REL/1.15/binary_nohw_linux_debug/host_x86_64/usc ./usc1.15
+ 1550  img_workstation 
+ 1551  globalprotect connect -p vpn.imgtec.com -u akash.banerjee
+ 1552  globalprotect connect -p vpn.imgtec.com -u akash.banerjee
+ 1553  img_workstation 
+ 1554  perf_usc 
+ 1555  make RGX_BVNC=70.4.2448.4117 USE_CCACHE=1 PVRVERSION_WITHOUT_P4=1 SRC_DEBUG=1 USE_CCACHE=1 PDUMP=1 BUILD=debug PVR_BUILD_DIR=nohw_linux SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ UF_TESTBENCH=1 usc -j12
+ 1556  gedit &
+ 1557  make RGX_BVNC=70.4.2448.4117 USE_CCACHE=1 PVRVERSION_WITHOUT_P4=1 SRC_DEBUG=1 USE_CCACHE=1 PDUMP=1 BUILD=debug PVR_BUILD_DIR=nohw_linux SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ UF_TESTBENCH=1 usc -j12
+ 1558  cd ../REL/1.15/
+ 1559  ls
+ 1560  make RGX_BVNC=70.4.2448.4117 USE_CCACHE=1 PVRVERSION_WITHOUT_P4=1 SRC_DEBUG=1 USE_CCACHE=1 PDUMP=1 BUILD=debug PVR_BUILD_DIR=nohw_linux SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ UF_TESTBENCH=1 usc -j12
+ 1561  make RGX_BVNC=38.2.2448.402 USE_CCACHE=1 PVRVERSION_WITHOUT_P4=1 SRC_DEBUG=1 USE_CCACHE=1 PDUMP=1 BUILD=debug PVR_BUILD_DIR=nohw_linux SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ UF_TESTBENCH=1 usc -j12
+ 1562  cd ../1.18/
+ 1563  make RGX_BVNC=38.2.2448.402 USE_CCACHE=1 PVRVERSION_WITHOUT_P4=1 SRC_DEBUG=1 USE_CCACHE=1 PDUMP=1 BUILD=debug PVR_BUILD_DIR=nohw_linux SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ UF_TESTBENCH=1 usc -j12
+ 1564  make RGX_BVNC=35.5.408.23 USE_CCACHE=1 PVRVERSION_WITHOUT_P4=1 SRC_DEBUG=1 USE_CCACHE=1 PDUMP=1 BUILD=debug PVR_BUILD_DIR=nohw_linux SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ UF_TESTBENCH=1 usc -j12
+ 1565  perf_tests 
+ 1566  usc bad_shader.uf.txt
+ 1567  usc bad_shader.uf.txt >a5
+ 1568  diff a4 a5 
+ 1569  vim smp_test.uf
+ 1570  vim smp_test.uf 
+ 1571  usc smp_test.uf >x1
+ 1572  gedit x1 
+ 1573  gedit x1 &
+ 1574  usc smp_test.uf >x1
+ 1575  gedit x1 &
+ 1576  gedit smp_test.uf 
+ 1577  usc smp_test.uf >x1
+ 1578  gedit x1 
+ 1579  usc smp_test.uf >x1
+ 1580  gedit x1 
+ 1581  usc bad_shader.uf.txt >a6
+ 1582  diff a5 a6 
+ 1583  usc bad_shader.uf.txt 
+ 1584  usc bad_shader2.uf.txt 
+ 1585  usc1.15 bad_shader.uf.txt 
+ 1586  cd USCInput_S8/regression/
+ 1587  ls
+ 1588  mkdir 6256650
+ 1589  cd 6256650/
+ 1590  ls
+ 1591  cp ../../../bad_shader* ./
+ 1592  ls
+ 1593  cd ../../../
+ 1594  gedit ./test_lists/soak_test_v2.lst 
+ 1595  cd -
+ 1596  ls
+ 1597  ll
+ 1598  ls
+ 1599  find ./
+ 1600  pwd
+ 1601  ls
+ 1602  cd ../
+ 1603  ls
+ 1604  cd 6240721
+ 1605  ls
+ 1606  cd ../
+ 1607  ls
+ 1608  cd 256650
+ 1609  cd 6256650
+ 1610  ls
+ 1611  mv bad_shader2.uf.txt bad_shader2.uf
+ 1612  mv bad_shader.uf.txt bad_shader.uf
+ 1613  ls
+ 1614  globalprotect connect -p vpn.imgtec.com -u akash.banerjee
+ 1615  ifconfig 
+ 1616  ssh
+ 1617  passwd 
+ 1618  globalprotect connect -p vpn.imgtec.com -u akash.banerjee
+ 1619  update
+ 1620  globalprotect connect -p vpn.imgtec.com -u akash.banerjee
+ 1621  perf_usc 
+ 1622  ls
+ 1623  cd ../REL/1.17/
+ 1624  make RGX_BVNC=35.5.408.23 USE_CCACHE=1 PVRVERSION_WITHOUT_P4=1 SRC_DEBUG=1 USE_CCACHE=1 PDUMP=1 BUILD=debug PVR_BUILD_DIR=nohw_linux SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ UF_TESTBENCH=1 usc -j12
+ 1625  globalprotect connect -p vpn.imgtec.com -u akash.banerjee
+ 1626  sudo apt-get install docker.io 
+ 1627  sudo apt-get install docker-compose 
+ 1628  documents 
+ 1629  ls
+ 1630  mkdir ithemal
+ 1631  git clone https://github.com/ithemal/Ithemal.git ithemal/
+ 1632  cd ithemal/
+ 1633  ls
+ 1634  gedit README.md 
+ 1635  ls
+ 1636  docker docker/docker_build.sh
+ 1637  ./docker/docker_build.sh 
+ 1638  ./docker/docker_connect.sh 
+ 1639  sudo ./docker/docker_connect.sh 
+ 1640  sudo docker login
+ 1641  sudo docker pull ithemal
+ 1642  scratch 
+ 1643  ls
+ 1644  gedit test.cpp 
+ 1645  pwd
+ 1646  documents 
+ 1647  ls
+ 1648  cd ithemal/
+ 1649  ls
+ 1650  git clone https://github.com/ithemal/Ithemal-models.git
+ 1651  ls
+ 1652  cd Ithemal-models/
+ 1653  ls
+ 1654  cd ../
+ 1655  ls
+ 1656  cd learning/
+ 1657  ls
+ 1658  cd pytorch/
+ 1659  ls
+ 1660  gedit README.md &
+ 1661  cd ithemal/
+ 1662  ls
+ 1663  cd ../../
+ 1664  cd ../
+ 1665  ls
+ 1666  cp /home/abanerjee/Documents/CProgramming/Scratch/a.out ./
+ 1667  ls
+ 1668  python learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1669  pip3 install common_libs.utilities
+ 1670  pip install common_libs.utilities
+ 1671  pip3 install common
+ 1672  python learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1673  pip3 install common_libs
+ 1674  pip3 install common*
+ 1675  pip3 install common-libs
+ 1676  pip3 install commonlibs
+ 1677  python learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1678  pip3 install utilities
+ 1679  pip3 install utility
+ 1680  python learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1681  update
+ 1682  python learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1683  python3 learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1684  pip3 install common_libs
+ 1685  ls
+ 1686  cd common/
+ 1687  ls
+ 1688  cd common_libs/
+ 1689  ls
+ 1690  cd ../../
+ 1691  ls
+ 1692  python3 learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1693  gedit learning/pytorch/ithemal/predict.py
+ 1694  python3 learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1695  gedit /home/abanerjee/Documents/ithemal/common/common_libs/utilities.py
+ 1696  ls
+ 1697  ./docker/docker_build.sh 
+ 1698  sudo apt-get install mysql-community-client mysql-client mysql-community-server mysql-server
+ 1699  sudo apt-get install mysql-client
+ 1700  python3 learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1701  pip3 install sql
+ 1702  pip3 install mysql
+ 1703  python3 learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1704  vim ./docker/docker_build.sh 
+ 1705  ./docker/docker_build
+ 1706  ./docker/docker_build.sh 
+ 1707  sudo ./docker/docker_build.sh 
+ 1708  update
+ 1709  python3 learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1710  gedit /home/abanerjee/Documents/ithemal/common/common_libs/utilities.py
+ 1711  python3 learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1712  pip3 install mysql
+ 1713  pip install mysql
+ 1714  sudo apt-get install libmysqlclient-dev
+ 1715  pip3 install mysql
+ 1716  python3 learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1717  pip3 install mysql-python
+ 1718  pip3 install ConfigParser
+ 1719  python3 learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1720  pip install mysql-connector-python-rf
+ 1721  python3 learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1722  export ITHEMAL_HOME=./
+ 1723  python3 learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1724  ls
+ 1725  cd data_collection/
+ 1726  ls
+ 1727  cd ../
+ 1728  find ./ -name "data.py"
+ 1729  sudo apt-get install conda
+ 1730  cd Downloads/
+ 1731  ls
+ 1732  chmod +x Anaconda3-2022.05-Linux-x86_64.sh 
+ 1733  ./Anaconda3-2022.05-Linux-x86_64.sh 
+ 1734  cl;ear
+ 1735  clear
+ 1736  conda --base
+ 1737  conda --bersion
+ 1738  conda --version
+ 1739  conda update conda
+ 1740  globalprotect connect -p vpn.imgtec.com -u akash.banerjee
+ 1741  conda create --name ithemal
+ 1742  conda activate ithemal
+ 1743  ls
+ 1744  clear
+ 1745  python --version
+ 1746  clear
+ 1747  ls
+ 1748  python learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1749  conda install mysql
+ 1750  python learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1751  conda install mysql.connector
+ 1752  ls
+ 1753  git status
+ 1754  clear
+ 1755  ls
+ 1756  conda install mysql.connector
+ 1757  python learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1758  python2 learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1759  python2.7 learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1760  ls
+ 1761  git reset --hard
+ 1762  git
+ 1763  git status
+ 1764  ls
+ 1765  clear
+ 1766  ls
+ 1767  python2.7 learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1768  python learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1769  cond uninstall python
+ 1770  conda uninstall python
+ 1771  conda install python=2.7
+ 1772  python --version
+ 1773  python learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1774  conda install mysql
+ 1775  conda install -c anaconda mysql-connector-python
+ 1776  python learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1777  conda install typing
+ 1778  python learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1779  export ITHEMAL_HOME=./
+ 1780  python learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1781  conda install numpy
+ 1782  python learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1783  conda install torch
+ 1784  conda install jupyter
+ 1785  python learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1786  conda install pytorch
+ 1787  python learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1788  conda install tqdm
+ 1789  python learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1790  conda install -c conda-forge matplotlib
+ 1791  python learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1792  conda install statistics
+ 1793  python learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1794  conda install pandas
+ 1795  python learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1796  conda install psutil
+ 1797  python learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1798  find ./ -name "predictor.dump"
+ 1799  find ./ -name "trained.mdl"
+ 1800  python learning/pytorch/ithemal/predict.py --verbose --model ./Ithemal-models/paper/skylake/predictor.dump --model-data ./Ithemal-models/paper/skylake/trained.mdl --file a.out
+ 1801  history 
+ 1802  cd learning/pytorch/ithemal/
+ 1803  ls
+ 1804  cd ../../../common/
+ 1805  pwd
+ 1806  ls
+ 1807  cd ../
+ 1808  ls
+ 1809  clear
+ 1810  python learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1811  pip install mysql-connector-python-rf
+ 1812  python learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1813  pip3 install mysql-connector-python-rf
+ 1814  python3 learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1815  export ITHEMAL_HOME=./
+ 1816  python3 learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1817  find ./ -name "data.py"
+ 1818  python3 learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1819  gedit /home/abanerjee/Documents/ithemal/learning/pytorch/data/data.py
+ 1820  python3 learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1821  pip3 install torch
+ 1822  python3 learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1823  find ./ -name "tqdm.py"
+ 1824  pip3 install tqdm
+ 1825  python3 learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1826  pip3 install pandas
+ 1827  python3 learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1828  gedit /home/abanerjee/Documents/ithemal/learning/pytorch/models/graph_models.py
+ 1829  python3 learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1830  gedit /home/abanerjee/Documents/ithemal/learning/pytorch/models/train.py
+ 1831  python3 learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1832  pip3 install psutil
+ 1833  python3 learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1834  globalprotect connect -p vpn.imgtec.com -u akash.banerjee
+ 1835  ls
+ 1836  cd ../../../../
+ 1837  ls
+ 1838  cd ../slowaccess/swgraphics/rogueddk/REL/1.16/llvm/
+ 1839  ls
+ 1840  ./tools/unpack.sh 
+ 1841  ./tools/unpack.sh ~/Documents/Perforce/akash.banerjee_dev0_ws/powervr/swgraphics/rogueddk/REL/1.16/
+ 1842  cd ../toolchains/
+ 1843  ls
+ 1844  cd tools/
+ 1845  ls
+ 1846  cd ../
+ 1847  ls
+ 1848  cd ../
+ 1849  ls
+ 1850  cd llvm/
+ 1851  ls
+ 1852  cd ../
+ 1853  ls
+ 1854  cd toolchains/
+ 1855  ls
+ 1856  cd tools/
+ 1857  ls
+ 1858  cd ../firmware/
+ 1859  ls
+ 1860  tar -xf mips-mti-elf.tar.xz 
+ 1861  tar -xf metag.tar.xz 
+ 1862  perf_usc 
+ 1863  ls
+ 1864  cd ../REL/1.16/
+ 1865  make RGX_BVNC=35.5.408.23 USE_CCACHE=1 PVRVERSION_WITHOUT_P4=1 SRC_DEBUG=1 USE_CCACHE=1 PDUMP=1 BUILD=debug PVR_BUILD_DIR=nohw_linux SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ UF_TESTBENCH=1 usc -j12
+ 1866  ls
+ 1867  clear
+ 1868  make RGX_BVNC=35.5.408.23 USE_CCACHE=1 PVRVERSION_WITHOUT_P4=1 SRC_DEBUG=1 USE_CCACHE=1 PDUMP=1 BUILD=debug PVR_BUILD_DIR=nohw_linux SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ UF_TESTBENCH=1 -j12
+ 1869  clear
+ 1870  make RGX_BVNC=35.1p.1632.21 PVRVERSION_WITHOUT_P4=1  USE_CCACHE=1 EXCLUDED_APIS="imgdnn" PDUMP=1 BUILD=debug PVR_BUILD_DIR=nohw_linux KERNELDIR=/usr/src/linux-headers-TODO-generic/ SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ LLVM_BUILD_DIR=~/Perforce/akash.banerjee_dev3_ws/slowaccess/swgraphics/rogueddk/MAIN/llvm MIPS_ELF_ROOT=~/Perforce/akash.banerjee_dev3_ws/slowaccess/swgraphics/rogueddk/MAIN/toolchains/firmware/mips-mti-elf/2014.07-1 METAG_INST_ROOT=~/Perforce/akash.banerjee_dev3_ws/slowaccess/swgraphics/rogueddk/MAIN/toolchains/firmware/metag/2.8/ build
+ 1871  cclear
+ 1872  clear
+ 1873  make RGX_BVNC=38.6.2448.402 PVRVERSION_WITHOUT_P4=1  USE_CCACHE=1 EXCLUDED_APIS="imgdnn" PDUMP=1 BUILD=debug PVR_BUILD_DIR=nohw_linux KERNELDIR=/usr/src/linux-headers-5.13.0-48-generic/ SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ LLVM_BUILD_DIR=~/Documents/Perforce/akash.banerjee_dev0_ws/slowaccess/swgraphics/rogueddk/REL/1.16/llvm MIPS_ELF_ROOT=~/Documents/Perforce/akash.banerjee_dev0_ws/slowaccess/swgraphics/rogueddk/REL/1.16/toolchains/firmware/mips-mti-elf/2014.07-1 METAG_INST_ROOT=~/Documents/Perforce/akash.banerjee_dev0_ws/slowaccess/swgraphics/rogueddk/REL/1.16/toolchains/firmware/metag/2.8 build -j12
+ 1874  make RGX_BVNC=38.6.2448.402 PVRVERSION_WITHOUT_P4=1  USE_CCACHE=1 EXCLUDED_APIS="imgdnn" PDUMP=1 BUILD=debug PVR_BUILD_DIR=nohw_linux KERNELDIR=/usr/src/linux-headers-5.13.0-48-generic/ SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ LLVM_BUILD_DIR=~/Documents/Perforce/akash.banerjee_dev0_ws/slowaccess/swgraphics/rogueddk/REL/1.16/llvm MIPS_ELF_ROOT=~/Documents/Perforce/akash.banerjee_dev0_ws/slowaccess/swgraphics/rogueddk/REL/1.16/toolchains/firmware/mips-mti-elf/2014.07-1 METAG_INST_ROOT=~/Documents/Perforce/akash.banerjee_dev0_ws/slowaccess/swgraphics/rogueddk/REL/1.16/toolchains/firmware/metag/2.8 clean
+ 1875  clear
+ 1876  make RGX_BVNC=38.6.2448.402 PVRVERSION_WITHOUT_P4=1  USE_CCACHE=1 EXCLUDED_APIS="imgdnn" PDUMP=1 BUILD=debug PVR_BUILD_DIR=nohw_linux KERNELDIR=/usr/src/linux-headers-5.13.0-48-generic/ SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ LLVM_BUILD_DIR=~/Documents/Perforce/akash.banerjee_dev0_ws/slowaccess/swgraphics/rogueddk/REL/1.16/llvm MIPS_ELF_ROOT=~/Documents/Perforce/akash.banerjee_dev0_ws/slowaccess/swgraphics/rogueddk/REL/1.16/toolchains/firmware/mips-mti-elf/2014.07-1 METAG_INST_ROOT=~/Documents/Perforce/akash.banerjee_dev0_ws/slowaccess/swgraphics/rogueddk/REL/1.16/toolchains/firmware/metag/2.8 clean
+ 1877  make RGX_BVNC=38.6.2448.402 PVRVERSION_WITHOUT_P4=1  USE_CCACHE=1 EXCLUDED_APIS="imgdnn" PDUMP=1 BUILD=debug PVR_BUILD_DIR=nohw_linux KERNELDIR=/usr/src/linux-headers-5.13.0-48-generic/ SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ LLVM_BUILD_DIR=~/Documents/Perforce/akash.banerjee_dev0_ws/slowaccess/swgraphics/rogueddk/REL/1.16/llvm MIPS_ELF_ROOT=~/Documents/Perforce/akash.banerjee_dev0_ws/slowaccess/swgraphics/rogueddk/REL/1.16/toolchains/firmware/mips-mti-elf/2014.07-1 METAG_INST_ROOT=~/Documents/Perforce/akash.banerjee_dev0_ws/slowaccess/swgraphics/rogueddk/REL/1.16/toolchains/firmware/metag/2.8 build -j12
+ 1878  sudo apt-get install libdrm-dev 
+ 1879  cleart
+ 1880  clear
+ 1881  make RGX_BVNC=38.6.2448.402 PVRVERSION_WITHOUT_P4=1  USE_CCACHE=1 EXCLUDED_APIS="imgdnn" PDUMP=1 BUILD=debug PVR_BUILD_DIR=nohw_linux KERNELDIR=/usr/src/linux-headers-5.13.0-48-generic/ SKIP_MAKE_VERSION_CHECK=1 CROSS_COMPILE= DISCIMAGE=/ LLVM_BUILD_DIR=~/Documents/Perforce/akash.banerjee_dev0_ws/slowaccess/swgraphics/rogueddk/REL/1.16/llvm MIPS_ELF_ROOT=~/Documents/Perforce/akash.banerjee_dev0_ws/slowaccess/swgraphics/rogueddk/REL/1.16/toolchains/firmware/mips-mti-elf/2014.07-1 METAG_INST_ROOT=~/Documents/Perforce/akash.banerjee_dev0_ws/slowaccess/swgraphics/rogueddk/REL/1.16/toolchains/firmware/metag/2.8 build -j12
+ 1882  clear
+ 1883  globalprotect connect -p vpn.imgtec.com -u akash.banerjee
+ 1884  update
+ 1885  documents 
+ 1886  ls
+ 1887  cd ithemal/
+ 1888  ls
+ 1889  congo active ithemal
+ 1890  conda active ithemal
+ 1891  conda activate ithemal
+ 1892  python learning/pytorch/ithemal/run_ithemal.py --data {DATA_FILE} --use-rnn train --experiment-name {EXPERIMENT_NAME} --experiment-time {EXPERIMENT_TIME} --sgd --threads 4 --trainers 6 --weird-lr --decay-lr --epochs 100
+ 1893  export ITHEMAL_HOME=./
+ 1894  python learning/pytorch/ithemal/run_ithemal.py --data {DATA_FILE} --use-rnn train --experiment-name {EXPERIMENT_NAME} --experiment-time {EXPERIMENT_TIME} --sgd --threads 4 --trainers 6 --weird-lr --decay-lr --epochs 100
+ 1895  cat steps 
+ 1896  gedit learning/pytorch/ithemal/predict.py
+ 1897  gedit learning/pytorch/ithemal/run_ithemal.py
+ 1898  python learning/pytorch/ithemal/run_ithemal.py --data {DATA_FILE} --use-rnn train --experiment-name {EXPERIMENT_NAME} --experiment-time {EXPERIMENT_TIME} --sgd --threads 4 --trainers 6 --weird-lr --decay-lr --epochs 100
+ 1899  export ITHEMAL_HOME=./
+ 1900  pwd
+ 1901  export ITHEMAL_HOME=/home/abanerjee/Documents/ithemal
+ 1902  python learning/pytorch/ithemal/run_ithemal.py --data {DATA_FILE} --use-rnn train --experiment-name {EXPERIMENT_NAME} --experiment-time {EXPERIMENT_TIME} --sgd --threads 4 --trainers 6 --weird-lr --decay-lr --epochs 100
+ 1903  gedit /home/abanerjee/Documents/ithemal/learning/pytorch/ithemal/training.py
+ 1904  python learning/pytorch/ithemal/run_ithemal.py --data {DATA_FILE} --use-rnn train --experiment-name {EXPERIMENT_NAME} --experiment-time {EXPERIMENT_TIME} --sgd --threads 4 --trainers 6 --weird-lr --decay-lr --epochs 100
+ 1905  cd Ithemal-models/
+ 1906  ls
+ 1907  cd paper/
+ 1908  ls
+ 1909  cd data/
+ 1910  ls
+ 1911  cd ../
+ 1912  ls
+ 1913  cd skylake/
+ 1914  ls
+ 1915  vim predictor.dump 
+ 1916  cd ../
+ 1917  ls
+ 1918  cd data/
+ 1919  ls
+ 1920  vim haswell_sample1000.data 
+ 1921  gedit haswell_sample1000.data 
+ 1922  vim haswell_sample1000.data 
+ 1923  ls
+ 1924  cd ../
+ 1925  ls
+ 1926  cd ../
+ 1927  ls
+ 1928  cd bhive/
+ 1929  ls
+ 1930  cd ../
+ 1931  ls
+ 1932  cd old/
+ 1933  ls
+ 1934  cd ../
+ 1935  ls
+ 1936  vim README.md 
+ 1937  ls
+ 1938  cd ../
+ 1939  ls
+ 1940  export ITHEMAL_HOME=./
+ 1941  python learning/pytorch/ithemal/run_ithemal.py --data ./Ithemal-models/paper/data/haswell_sample1000.data --use-rnn train --experiment-name akash_test --experiment-time 10 --sgd --threads 4 --trainers 6 --weird-lr --decay-lr --epochs 100
+ 1942  python --version
+ 1943  ls
+ 1944  cd learning/
+ 1945  ls
+ 1946  cd ../
+ 1947  python learning/pytorch/ithemal/run_ithemal.py --data ./Ithemal-models/paper/data/haswell_sample1000.data --use-rnn train --experiment-name akash_test --experiment-time 10 --sgd --threads 4 --trainers 6 --weird-lr --decay-lr --epochs 100
+ 1948  ls
+ 1949  cd learning/
+ 1950  ls
+ 1951  cd pytorch/
+ 1952  ls
+ 1953  cd ../../
+ 1954  ls
+ 1955  python learning/pytorch/ithemal/run_ithemal.py --data ./Ithemal-models/paper/data/haswell_sample1000.data --use-rnn train --experiment-name akash_test --experiment-time 10 --sgd --threads 4 --trainers 6 --weird-lr --decay-lr --epochs 100
+ 1956  git status
+ 1957  git difflearning/pytorch/ithemal/predict.py
+ 1958  git diff learning/pytorch/ithemal/predict.py
+ 1959  git diff learning/pytorch/ithemal/run_ithemal.py
+ 1960  git diff /home/abanerjee/Documents/ithemal/learning/pytorch
+ 1961  git checkout  /home/abanerjee/Documents/ithemal/learning/pytorch
+ 1962  git status
+ 1963  python learning/pytorch/ithemal/run_ithemal.py --data ./Ithemal-models/paper/data/haswell_sample1000.data --use-rnn train --experiment-name akash_test --experiment-time 10 --sgd --threads 4 --trainers 6 --weird-lr --decay-lr --epochs 100
+ 1964  gedit learning/pytorch/ithemal/run_ithemal.py
+ 1965  python learning/pytorch/ithemal/run_ithemal.py --data ./Ithemal-models/paper/data/haswell_sample1000.data --use-rnn train --experiment-name akash_test --experiment-time 10 --sgd --threads 4 --trainers 6 --weird-lr --decay-lr --epochs 100
+ 1966  gedit ./learning/pytorch/models/graph_models.py
+ 1967  python learning/pytorch/ithemal/run_ithemal.py --data ./Ithemal-models/paper/data/haswell_sample1000.data --use-rnn train --experiment-name akash_test --experiment-time 10 --sgd --threads 4 --trainers 6 --weird-lr --decay-lr --epochs 100
+ 1968  ls
+ 1969  find ./ -name "akash_test"
+ 1970  conda activate ithemal
+ 1971  ls
+ 1972  doc
+ 1973  documents 
+ 1974  ls
+ 1975  cd ithemal/
+ 1976  ls
+ 1977  cd Ithemal-models/
+ 1978  ls
+ 1979  cd paper/
+ 1980  ls
+ 1981  cd data/
+ 1982  ls
+ 1983  cd ../
+ 1984  ls
+ 1985  cd ../
+ 1986  ls
+ 1987  cd ../
+ 1988  ls
+ 1989  python learning/pytorch/ithemal/run_ithemal.py --data ./Ithemal-models/paper/data/haswell_sample1000.data --use-rnn train --experiment-name akash_test2 --experiment-time 5 --sgd --threads 4 --trainers 6 --weird-lr --decay-lr --epochs 100
+ 1990  export ITHEMAL_HOME=./
+ 1991  python learning/pytorch/ithemal/run_ithemal.py --data ./Ithemal-models/paper/data/haswell_sample1000.data --use-rnn train --experiment-name akash_test2 --experiment-time 5 --sgd --threads 4 --trainers 6 --weird-lr --decay-lr --epochs 100
+ 1992  ls
+ 1993  python learning/pytorch/ithemal/predict.py --verbose --model predictor.dump --model-data trained.mdl --file a.out
+ 1994  python learning/pytorch/ithemal/predict.py --verbose --model Ithemal-models/paper/skylake/predictor.dump --model-data Ithemal-models/paper/skylake/trained.mdl --file a.out
+ 1995  globalprotect connect -p vpn.imgtec.com -u akash.banerjee
+ 1996  meld a1 a2 
+ 1997  img_workstation 
+ 1998  img_workstation 
+ 1999  globalprotect connect -p vpn.imgtec.com -u akash.banerjee
+ 2000  update
+ 2001  doc
+ 2002  documents 
+ 2003  ls
+ 2004  cd ithemal/
+ 2005  conda activate ithemal
+ 2006  ls
+ 2007  python learning/pytorch/ithemal/predict.py --verbose --model Ithemal-models/paper/skylake/predictor.dump --model-data Ithemal-models/paper/skylake/trained.mdl --file a.out
+ 2008  export ITHEMAL_HOME=./
+ 2009  ls
+ 2010  clear
+ 2011  python learning/pytorch/ithemal/predict.py --verbose --model Ithemal-models/paper/skylake/predictor.dump --model-data Ithemal-models/paper/skylake/trained.mdl --file a.out
+ 2012  ls
+ 2013  cd ica
+ 2014  cd iaca-version-v3.0-lin64/
+ 2015  ls
+ 2016  cd iaca-lin64/
+ 2017  ls
+ 2018  ./iaca
+ 2019  cp iacaMarks.h /usr/local/include/
+ 2020  sudo cp iacaMarks.h /usr/local/include/
+ 2021  cd ../../
+ 2022  ls
+ 2023  rm a.out 
+ 2024  cp /home/abanerjee/Documents/CProgramming/Scratch/a.out ./
+ 2025  python learning/pytorch/ithemal/predict.py --verbose --model Ithemal-models/paper/skylake/predictor.dump --model-data Ithemal-models/paper/skylake/trained.mdl --file a.out
+ 2026  gedit test.cpp
+ 2027  clang++-12 test.cpp 
+ 2028  python learning/pytorch/ithemal/predict.py --verbose --model Ithemal-models/paper/skylake/predictor.dump --model-data Ithemal-models/paper/skylake/trained.mdl --file a.out
+ 2029  ls
+ 2030  rm a.out 
+ 2031  ls
+ 2032  clang++-12 test.cpp 
+ 2033  ./a
+ 2034  ./a.out 
+ 2035  clang++-12 test.cpp 
+ 2036  ./a.out 
+ 2037  g++ -g test.cpp 
+ 2038  gdb ./a
+ 2039  gdb ./a.out 
+ 2040  clang++-12 test.cpp 
+ 2041  ./a.out 
+ 2042  python learning/pytorch/ithemal/predict.py --verbose --model Ithemal-models/paper/skylake/predictor.dump --model-data Ithemal-models/paper/skylake/trained.mdl --file a.out
+ 2043  cp iaca-version-v3.0-lin64/iaca-lin64/iaca ./
+ 2044  ./iaca ./a.out 
+ 2045  clear
+ 2046  python learning/pytorch/ithemal/predict.py --verbose --model Ithemal-models/paper/skylake/predictor.dump --model-data Ithemal-models/paper/skylake/trained.mdl --file a.out
+ 2047  ./iaca ./a.out 
+ 2048  clear
+ 2049  python learning/pytorch/ithemal/predict.py --verbose --model Ithemal-models/paper/skylake/predictor.dump --model-data Ithemal-models/paper/skylake/trained.mdl --file a.outls
+ 2050  python learning/pytorch/ithemal/predict.py --verbose --model Ithemal-models/paper/skylake/predictor.dump --model-data Ithemal-models/paper/skylake/trained.mdl --file a.out
+ 2051  sudo python learning/pytorch/ithemal/predict.py --verbose --model Ithemal-models/paper/skylake/predictor.dump --model-data Ithemal-models/paper/skylake/trained.mdl --file a.out
+ 2052  conda install mysql.connector
+ 2053  ls
+ 2054  gedit steps 
+ 2055  conda install -c anaconda mysql-connector-python
+ 2056  sudo python learning/pytorch/ithemal/predict.py --verbose --model Ithemal-models/paper/skylake/predictor.dump --model-data Ithemal-models/paper/skylake/trained.mdl --file a.out
+ 2057  python learning/pytorch/ithemal/predict.py --verbose --model Ithemal-models/paper/skylake/predictor.dump --model-data Ithemal-models/paper/skylake/trained.mdl --file a.out
+ 2058  conda install popen
+ 2059  source activate root
+ 2060  conda  activate root
+ 2061  conda  activate ithemal
+ 2062  conda  activate ithemal root
+ 2063  conda activate
+ 2064  conda activate ithemal
+ 2065  ls
+ 2066  ll
+ 2067  chmod +rwxrwxrwx ./a.out 
+ 2068  ll
+ 2069  chmod 777 ./a.out 
+ 2070  ll
+ 2071  python learning/pytorch/ithemal/predict.py --verbose --model Ithemal-models/paper/skylake/predictor.dump --model-data Ithemal-models/paper/skylake/trained.mdl --file a.out
+ 2072  python learning/pytorch/ithemal/predict.py --verbose --model Ithemal-models/paper/skylake/predictor.dump --model-data Ithemal-models/paper/skylake/trained.mdl --file ./a.out
+ 2073  g++ test.cpp 
+ 2074  python learning/pytorch/ithemal/predict.py --verbose --model Ithemal-models/paper/skylake/predictor.dump --model-data Ithemal-models/paper/skylake/trained.mdl --file ./a.out
+ 2075  ls
+ 2076  cd timing_tools/
+ 2077  ls
+ 2078  cd ../
+ 2079  ls
+ 2080  cd learning/
+ 2081  ls
+ 2082  cd pytorch/
+ 2083  ls
+ 2084  cd models/
+ 2085  ls
+ 2086  cd ../
+ 2087  ls
+ 2088  cd ../
+ 2089  ls
+ 2090  cd ../
+ 2091  ls
+ 2092  cd common/
+ 2093  ls
+ 2094  cd ../
+ 2095  ls
+ 2096  cd data_
+ 2097  cd data_export/
+ 2098  ls
+ 2099  cd schemas/
+ 2100  ls
+ 2101  cd ../
+ 2102  ls
+ 2103  cd scripts/
+ 2104  ls
+ 2105  ./create_database_from_file.sh 
+ 2106  ls
+ 2107  cd ../
+ 2108  ls
+ 2109  cd ../
+ 2110  ls
+ 2111  cd testing/
+ 2112  ls
+ 2113  cd ../
+ 2114  ls
+ 2115  find ./ -name "*token*"
+ 2116  gedit learning/pytorch/ithemal/predict.py
+ 2117  find ./ -name "_TOKENIZER"
+ 2118  cd data_
+ 2119  ls
+ 2120  cd data_collection/
+ 2121  ls
+ 2122  cd tokenizer/
+ 2123  ls
+ 2124  gedit tokenizer.c 
+ 2125  ls
+ 2126  clang-12 tokenizer.c
+ 2127  ls
+ 2128  cd ../../
+ 2129  ls
+ 2130  sudo apt-get install libdwarf-dev 
+ 2131  python learning/pytorch/ithemal/predict.py --verbose --model Ithemal-models/paper/skylake/predictor.dump --model-data Ithemal-models/paper/skylake/trained.mdl --file ./a.out
+ 2132  grep -Hrin "_TOKENIZER"
+ 2133  cd data_collection/
+ 2134  ls
+ 2135  ./build_dynamorio.sh 
+ 2136  git clone https://github.com/DynamoRIO/dynamorio.git
+ 2137  echo ITHEMAL_HOME
+ 2138  echo $ITHEMAL_HOME
+ 2139  cd ../
+ 2140  ls
+ 2141  pwd
+ 2142  export ITHEMAL_HOME=/home/abanerjee/Documents/ithemal
+ 2143  cd data_
+ 2144  cd data_collection/
+ 2145  ls
+ 2146  cd dynam
+ 2147  cd dynamorio/
+ 2148  ls
+ 2149  pwd
+ 2150  export DYNAMORIO_HOME=/home/abanerjee/Documents/ithemal/data_collection/dynamorio
+ 2151  cd ../
+ 2152  ls
+ 2153  ./build_dynamorio.sh 
+ 2154  ls
+ 2155  cd dynamorio/
+ 2156  ls
+ 2157  git submodule update --init --recursive
+ 2158  ls
+ 2159  cmake
+ 2160  cd ../
+ 2161  ./build_dynamorio.sh 
+ 2162  cd  dynamorio/
+ 2163  ls
+ 2164  mkdir cmake
+ 2165  cd cmake/
+ 2166  ls
+ 2167  cmake ../
+ 2168  cd ../
+ 2169  ls
+ 2170  cd ../
+ 2171  ls
+ 2172  ./build_dynamorio.sh 
+ 2173  cd dynamorio/
+ 2174  ls
+ 2175  cd cmake/
+ 2176  ls
+ 2177  cd cmake/
+ 2178  ls
+ 2179  cd ../
+ 2180  ls
+ 2181  cd ../
+ 2182  ls
+ 2183  rm -rf cmake/
+ 2184  ls
+ 2185  cmake ./
+ 2186  ls
+ 2187  cd cmake
+ 2188  ls
+ 2189  cd ../../
+ 2190  ./build_dynamorio.sh 
+ 2191  cd dynamorio/
+ 2192  ls
+ 2193  make
+ 2194  make -j8
+ 2195  cd ../
+ 2196  ./build_dynamorio.sh 
+ 2197  ls
+ 2198  cd build/
+ 2199  ls
+ 2200  cd bin/
+ 2201  ls
+ 2202  cd ../../
+ 2203  ls
+ 2204  cd ../
+ 2205  python learning/pytorch/ithemal/predict.py --verbose --model Ithemal-models/paper/skylake/predictor.dump --model-data Ithemal-models/paper/skylake/trained.mdl --file ./a.out
+ 2206  clang++-12 test.cpp 
+ 2207  python learning/pytorch/ithemal/predict.py --verbose --model Ithemal-models/paper/skylake/predictor.dump --model-data Ithemal-models/paper/skylake/trained.mdl --file ./a.out
+ 2208  gedit steps 
+ 2209  history >>temp

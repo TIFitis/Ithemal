@@ -1,0 +1,22 @@
+conda create --name ithemal
+conda activate ithemal
+conda uninstall python
+conda install python=2.7
+python --version
+conda install mysql
+conda install -c anaconda mysql-connector-python
+conda install typing
+export ITHEMAL_HOME=`pwd`
+conda install numpy torch jupyter pytorch tqdm statistics pandas psutil
+conda install -c conda-forge matplotlib
+cd data_collection/
+export DYNAMORIO_HOME=`pwd`
+git clone https://github.com/DynamoRIO/dynamorio.git
+cd dynamorio/
+git submodule update --init --recursive
+cmake ./
+make -j `nproc`
+cd ../
+./build_dynamorio.sh
+cd ../
+python learning/pytorch/ithemal/predict.py --verbose --model ./Ithemal-models/paper/skylake/predictor.dump --model-data ./Ithemal-models/paper/skylake/trained.mdl --file a.out

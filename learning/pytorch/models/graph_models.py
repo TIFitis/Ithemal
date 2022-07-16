@@ -1,6 +1,7 @@
 import sys
 import os
 sys.path.append(os.path.join(os.environ['ITHEMAL_HOME'], 'learning', 'pytorch'))
+sys.path.append(os.path.join(os.environ['ITHEMAL_HOME'], 'common'))
 
 from enum import Enum, unique
 import torch
